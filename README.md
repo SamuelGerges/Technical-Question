@@ -1,5 +1,5 @@
 ## Quick Installation
-    git clone git@github.com:SamuelGerges/baims-attendance-system.git
+    git clone git@github.com:SamuelGerges/Technical-Question.git
     cd SD_Project/
 
 ### my Study notes 
