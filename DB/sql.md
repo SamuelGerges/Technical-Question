@@ -15,4 +15,17 @@
         
 
        
-## 
+## Function
+    it  is a set of SQL statements that perform a specific task and
+    return a single value or a table (in case of table-valued functions).
+    # advantage
+        - Code Reusability – define once, use many times.
+        - Modularity – makes large queries more manageable (تنظيم الكود).
+        - Consistency – ensures that logic remains the same across the application.
+        - Custom logic – allows implementing domain-specific calculations.
+
+    # disadvantage
+        - Performance: Scalar functions (return single value) can slow down large queries.
+        - Limited access: Some functions can't modify data (unlike procedures).
+        - Not index -friendly: Using functions in WHERE clause may prevent index usage.
+        - Complexity: Overusing functions can make debugging difficult.
