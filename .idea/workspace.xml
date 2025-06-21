@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99a20869-a41e-4234-946d-53261e4d3b5f" name="Changes" comment="update documentations">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DB/sql.md" beforeDir="false" afterPath="$PROJECT_DIR$/DB/sql.md" afterDir="false" />
-    </list>
+    <list default="true" id="99a20869-a41e-4234-946d-53261e4d3b5f" name="Changes" comment="update documentations" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +91,7 @@
       <workItem from="1749918066523" duration="5069000" />
       <workItem from="1750454114680" duration="1792000" />
       <workItem from="1750490157601" duration="2267000" />
-      <workItem from="1750534601613" duration="1152000" />
+      <workItem from="1750534601613" duration="1881000" />
     </task>
     <task id="LOCAL-00001" summary="update documentations">
       <option name="closed" value="true" />
@@ -128,7 +125,15 @@
       <option name="project" value="LOCAL" />
       <updated>1750497628509</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="update documentations">
+      <option name="closed" value="true" />
+      <created>1750541802064</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1750541802064</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
